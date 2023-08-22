@@ -1,0 +1,138 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&display=swap');
+
+.zagolovok1
+{
+    color: blue;
+    font-family: 'Abril Fatface', cursive;
+}
+.zagolovok2
+{
+    color:red;
+    font-family: 'Dancing Script', cursive;
+}
+#qwerty1
+{
+    color:purple
+}
+.card1
+{
+    margin-top:500px;
+    border:solid #7b4b0d;
+    width:200px;
+    margin-right: 250px;
+}
+.container
+{
+    text-align: center;
+}
+.stroke1
+{
+    display: flex;
+    justify-content: center;
+    
+}
+.div1
+{
+    border: solid 10px #000;
+    width: 300px;
+    height: 300px;
+    background-color: aqua;
+    color:blueviolet;
+    text-align: center;
+    padding-right: 50px;
+    padding-bottom: 100px;
+    margin-top:30px;
+}
+.kv1
+{
+  width: 100px;
+  height: 100px;
+  background-color: rgb(157, 76, 233);
+}
+.kv2
+{
+  width: 100px;
+  height: 100px;
+  background-color: rgb(1, 175, 21);
+  position:relative;
+  top: -70px;
+  left: 28px;     
+}
+.kv3
+{
+  width: 100px;
+  height: 100px;
+  background-color: rgb(210, 126, 221);
+  position:relative;
+  top: -140px;
+  left: 56px;     
+}
+.kv4
+{
+  width: 100px;
+  height: 100px;
+  background-color: rgb(193, 43, 43);
+  position:relative;
+  top: -210px;
+  left: 84px;     
+}
+.kv5
+{
+  width: 100px;
+  height: 100px;
+  background-color: rgb(30, 0, 138);
+  position:relative;
+  top: -280px;
+  left: 112px;     
+}
+
+#div12
+{
+  width:400px;
+  height:400px;
+}
+
+#div123
+{
+  width:400px;
+  height:400px;
+}
+#image12
+{
+  border-radius: 100%;
+  opacity:0,8;
+  box-shadow: 5px 4px 10px 5px gray;
+}
+#image123
+{
+  box-shadow: 5px 4px 10px 5px gray;
+}
+#fdf
+{
+  text-align:center;
+}
+#img123
+{
+  border:solid;
+  margin-top:100px;
+  width:400px;
+}
+#image1234
+{
+  border-bottom:solid;
+}
+#imgimg
+{
+  border:solid;
+  margin-top:100px;
+  width:400px;
+  height:400px;
+}
+#block
+{
+  position:relative;
+  font-size:70px;
+  bottom:335px;
+  left:50px;
+  color: rgb(242, 224, 60);
+}
